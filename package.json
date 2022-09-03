@@ -1,0 +1,14 @@
+{
+  "name": "chewy",
+  "version": "0.0.1",
+  "description": "Chewy tarafından yapılmış OwO Method botudur.",
+  "main": "chewy.js",
+  "scripts": {
+    "test": "node chewy.js"
+  },
+  "author": "Chewy",
+  "license": "MIT",
+  "keywords": [
+    "Chewy"
+  ]
+}
